@@ -5,7 +5,7 @@ I have a strong foundation in both education theory, business. I completed my co
 - 🌱 I’m currently learning everything <br>
 - ⚡ Fun fact I love watermelons and it's not a secret.
 
-### Blogs posts
+###
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -22,6 +22,8 @@ I have a strong foundation in both education theory, business. I completed my co
 <a href="https://hashnode.com/@https://dreamcode.hashnode.dev/" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
+
+
 <a href="https://codepen.com/portiousbanda" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" /></a>
 
