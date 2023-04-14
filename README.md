@@ -1,11 +1,12 @@
 <h1 align="left">Hi 👋, I'm Portious Banda</h1>
 A passionate ICT teacher and junior developer from Zambia. I am a 2022 graduate with a Bachelor's degree in Secondary Education focusing on ICT. I also have knowledge in HTML, CSS, networking and cyber security fundamentals. 
-I have a strong foundation in both education theory, business. I completed my coursework in educational technology, project management, entrepreneurship and business, and computer science essentials. I also had an opportunity to intern in classrooms where I gained hands-on experience teaching ICT to pupils at junior secondary level.
+I have a strong foundation in both education theory and business. I completed my coursework in educational technology, project management, entrepreneurship and business, and computer science essentials. I also had an opportunity to intern in classrooms where I gained hands-on experience teaching ICT to pupils at junior secondary level.
 <br>
 - 🌱 I’m currently learning everything <br>
 - ⚡ Fun fact I love watermelons and it's not a secret.
 
-###
+### My latest blog post
+----
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
