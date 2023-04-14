@@ -3,6 +3,7 @@ A passionate ICT teacher and junior developer from Zambia. I am a 2022 Secondary
 - 🌱 I’m currently learning everything. <br>
 - ⚡ Fun fact I love watermelons and it's not a secret.
 
+----
 ### My latest blog post
 ----
 <!-- BLOG-POST-LIST:START -->
