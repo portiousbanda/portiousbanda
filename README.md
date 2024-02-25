@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Portious Banda</h1>
 A passionate ICT teacher and junior developer from Zambia. I am a 2022 Secondary Education graduate with a focus on ICT. I have a strong foundation in both education theory and business. I completed my coursework in educational technology, project management, and entrepreneurship. I also had an opportunity to intern in a classroom where I gained hands-on experience teaching ICT to pupils at junior secondary level.<br>
 - 🌱 I’m currently learning everything. <br>
-- 中国 interested in Chinese.<br>
+- 中国 I'm interested in Chinese.<br>
 - ⚡ I love watermelons and it's not a secret.
 
 ----
